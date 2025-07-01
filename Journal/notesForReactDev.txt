@@ -1,0 +1,27 @@
+
+
+format of a react dir with many components
+
+my-app/
+├── public/                  # Static assets (favicon, images, etc.)
+│   └── index.html
+├── src/                     # Main source code
+│   ├── assets/              # Static assets used in components (images, CSS)
+│   ├── components/          # Reusable UI components (.jsx + .css/.module.css)
+│   │   ├── Navbar.jsx
+│   │   ├── Button.jsx
+│   │   └── ...
+│   ├── pages/               # Page-level components (for routing)
+│   │   ├── Home.jsx
+│   │   ├── About.jsx
+│   │   └── ...
+│   ├── layouts/             # Optional: layout wrappers (e.g. with nav + footer)
+│   ├── hooks/               # Custom React hooks
+│   ├── context/             # React context providers (for state management)
+│   ├── App.jsx              # App root component
+│   ├── main.jsx             # Entry point (used by Vite)
+│   └── index.css            # Global styles
+├── .gitignore
+├── package.json
+├── vite.config.js
+└── README.md

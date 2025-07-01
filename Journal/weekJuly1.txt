@@ -1,0 +1,6 @@
+July 1st -
+
+-> Craig
+    - started scrimba course and experimented with init vite. allowing you to use Ts Js or react or angular
+    - dropped UMD react slides into git and also expanded the repo scope. 
+    
