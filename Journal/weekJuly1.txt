@@ -3,4 +3,15 @@ July 1st -
 -> Craig
     - started scrimba course and experimented with init vite. allowing you to use Ts Js or react or angular
     - dropped UMD react slides into git and also expanded the repo scope. 
-    
+
+-> Christian
+    - Discussed ideas with Craig about the project. Features, timeline, etc.
+    - Set up base directory with vite react template.
+    - Started scrimba course
+
+July 2nd - 
+
+-> Craig
+
+-> Christian
+    - Continued work on Scrimba course.
