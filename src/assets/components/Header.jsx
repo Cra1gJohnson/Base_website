@@ -1,14 +1,11 @@
 import React from "react";
-
+import './Header.css';
 
 function Header() {
     return (
-        <div>
-            <h1>Christian and Craig</h1>
-            <h3>bouta take over the game</h3>
+        <div id="header" >
         </div>
     );
-    
 };
 
 export default Header;

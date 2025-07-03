@@ -12,6 +12,7 @@ July 1st -
 July 2nd - 
 
 -> Craig
+    - updated website header and Navbar
 
 -> Christian
     
