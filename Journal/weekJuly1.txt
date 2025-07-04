@@ -27,3 +27,11 @@ July 3rd -
     - Worked on the navbar actually navigating to different pages. (Can change if we want later)
     - Made the navbar ease into a different color on hover.
     - Added a way to display resume from within the browser. Looks pretty good and is definetly functional.
+
+July 4th - 
+
+-> Craig
+
+-> Christian
+    - Created Project Experience page. 
+    - Want to try to get formatting decent or to make sure that the project can be easily displayed but also understood. 
