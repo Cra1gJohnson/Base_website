@@ -20,7 +20,7 @@ July 2nd -
 July 3rd - 
 
 -> Craig
-    - (DELETE AFTER) RUN "npm install react-router-dom" to install the react router and to have paths work.
+    - started social bar
 
 -> Christian
     - Worked on routing and an error page for if the page does not exist.
