@@ -24,4 +24,6 @@ July 3rd -
 
 -> Christian
     - Worked on routing and an error page for if the page does not exist.
-    
+    - Worked on the navbar actually navigating to different pages. (Can change if we want later)
+    - Made the navbar ease into a different color on hover.
+    - Added a way to display resume from within the browser. Looks pretty good and is definetly functional.
