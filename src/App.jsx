@@ -18,7 +18,10 @@ function App() {
       <NavBar />
 
       <h1>Craig Johnson and Christian Walker</h1>
+
+      <h3>Developer |  Programmer | Software Engineer | Athlete | Gamer | Musician</h3>
       <div id="containerOne"><SocialBar /></div>
+      
     </>
   );
 };

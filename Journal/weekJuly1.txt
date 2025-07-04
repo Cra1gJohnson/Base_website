@@ -27,3 +27,10 @@ July 3rd -
     - Worked on the navbar actually navigating to different pages. (Can change if we want later)
     - Made the navbar ease into a different color on hover.
     - Added a way to display resume from within the browser. Looks pretty good and is definetly functional.
+
+July 4th
+
+->Craig 
+    - finished social bar and searched for inspiration
+    - updated title and favicon
+->Christian
