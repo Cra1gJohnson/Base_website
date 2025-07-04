@@ -28,10 +28,11 @@ July 3rd -
     - Made the navbar ease into a different color on hover.
     - Added a way to display resume from within the browser. Looks pretty good and is definetly functional.
 
-July 4th - 
+July 4th
 
--> Craig
-
--> Christian
+->Craig 
+    - finished social bar and searched for inspiration
+    - updated title and favicon
+->Christian
     - Created Project Experience page. 
     - Want to try to get formatting decent or to make sure that the project can be easily displayed but also understood. 
