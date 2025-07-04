@@ -1,7 +1,11 @@
-
+body {
+  margin-top: 0;
+  padding-top: 0;
+}
 #header {
   height: 50px;
-  width: 110%;
+  width: 100%;
+  margin-left: 0;
   background: linear-gradient(-45deg, #0618a1, #085ca16c, #32a3d0, #3edce5);
   background-size: 400% 400%;
   animation: gradientMove 8s ease infinite;
@@ -10,7 +14,6 @@
   justify-content: center;
   color: white;
   font-size: 1.5rem;
-  border-radius: 12px;
 }
 
 @keyframes gradientMove {

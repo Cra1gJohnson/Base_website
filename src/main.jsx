@@ -6,10 +6,12 @@ import './index.css'
 import App from './App.jsx'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import NotFoundPage from './pages/NotFoundPage.jsx'
+import ResumeRender from './pages/ResumeRender.jsx'
 
 const router = createBrowserRouter([
   {path: '/', element: <App />},
-  {path: '*', element: <NotFoundPage />},
+  {path: '/resume', element: <ResumeRender />},
+  {path: '*', element: <NotFoundPage />}
 ]);
 
 createRoot(document.getElementById('root')).render(
