@@ -15,4 +15,13 @@ July 2nd -
     - updated website header and Navbar
 
 -> Christian
+    - Worked on scrimba more
+
+July 3rd - 
+
+-> Craig
+    - (DELETE AFTER) RUN "npm install react-router-dom" to install the react router and to have paths work.
+
+-> Christian
+    - Worked on routing and an error page for if the page does not exist.
     

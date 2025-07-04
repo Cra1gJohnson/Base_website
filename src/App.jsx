@@ -1,8 +1,8 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
-import Header from './assets/components/header'
-import NavBar from './assets/components/NavBar'
+import Header from './assets/components/Header.jsx'
+import NavBar from './assets/components/NavBar.jsx'
 import './App.css'
 
 
