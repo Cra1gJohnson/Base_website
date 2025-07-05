@@ -36,3 +36,4 @@ July 4th
 ->Christian
     - Created Project Experience page. 
     - Want to try to get formatting decent or to make sure that the project can be easily displayed but also understood. 
+    - Added shiny text to make names pop more. Could make it gradient to match the header color.
