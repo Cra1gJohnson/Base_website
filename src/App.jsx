@@ -5,9 +5,6 @@ import SocialBar from './assets/components/SocialBar.jsx';
 
 // Text Components Import
 import ShinyText from './assets/components/TxtComp/ShinyText.jsx';
-
-// Background Components Import
-import Iridescence from './assets/components/BkgComp/Iridescence.jsx';
   
 
 
