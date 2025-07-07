@@ -14,7 +14,7 @@ const router = createBrowserRouter([
   {path: '/', element: <App />},
   {path: '/resume', element: <ResumeRender />},
   {path: '/projects', element: <ProjectExperience />},
-    {path: '/about', element: <About />},
+  {path: '/about', element: <About />},
   {path: '*', element: <NotFoundPage />}
 ]);
 
