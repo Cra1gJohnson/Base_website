@@ -1,7 +1,7 @@
 import React from 'react';
 
 import Header from '../assets/components/Header.jsx'
-import NavBar from '../assets/components/NavBar.jsx';
+import NavBar from '../assets/components/NavBar.jsx'
 
 const ResumeRender = () => {
   return (

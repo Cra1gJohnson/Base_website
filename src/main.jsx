@@ -8,11 +8,13 @@ import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import NotFoundPage from './pages/NotFoundPage.jsx'
 import ResumeRender from './pages/ResumeRender.jsx'
 import ProjectExperience from './pages/ProjectExperience.jsx'
+import AboutMe from './pages/AboutMe.jsx'
 
 const router = createBrowserRouter([
   {path: '/', element: <App />},
   {path: '/resume', element: <ResumeRender />},
   {path: '/projects', element: <ProjectExperience />},
+  {path: 'aboutme', element: <AboutMe />},
   {path: '*', element: <NotFoundPage />}
 ]);
 
