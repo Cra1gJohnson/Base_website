@@ -42,8 +42,13 @@ July 5th
 -> Craig 
     - another change to social bar
     - continued scrimba
+-> Christian
+    - scrimba
+    - Looked at other websites for inspiration on layout
 
 July 6th 
 
 -> Craig 
     - Pic and info jsx for about page
+-> Christian
+    - Making the project experience page look more visually appealing while still displaying the projects.
