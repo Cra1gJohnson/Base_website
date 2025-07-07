@@ -42,3 +42,8 @@ July 5th
 -> Craig 
     - another change to social bar
     - continued scrimba
+
+July 6th 
+
+-> Craig 
+    - Pic and info jsx for about page
