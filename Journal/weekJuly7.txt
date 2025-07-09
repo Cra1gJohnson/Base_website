@@ -17,3 +17,10 @@ July 9th
     https://ifonts.xyz/moon-rounded-typeface.html
     I think a big part is font.
     - Began to try to create a very light experience tab.
+
+    Same day but later.
+    - Got the new navbar to a functioning state.
+    - Format is decent but I think color scheme needs an update.
+        - To go more in depth I think we should use one color and shades of that color.
+        - Maybe 2 but a generally darker color that is the background and border of things and then a more vibrant color that servers as a navigator.
+    - Font is nice but always caps. Might need to find a similar font that allows for lowercase.
