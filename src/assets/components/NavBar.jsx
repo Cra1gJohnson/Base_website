@@ -11,8 +11,8 @@ const NavBar = () => {
       <Link to='/resume' className="nav-link">
         <h3>Resume</h3>
       </Link>
-      <Link to='/work-experience' className="nav-link">
-        <h3>Work Experience</h3>
+      <Link to='/experience' className="nav-link">
+        <h3>Experience</h3>
       </Link>
       <Link to='/projects' className="nav-link">
         <h3>Projects</h3>

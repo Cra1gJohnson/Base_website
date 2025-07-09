@@ -13,21 +13,10 @@
     align-items: right;
     justify-content: center;
     border-radius: 25px;
-    border: 1px solid #7FB7BE;
+    border: 2px solid #333533;
     width: 45%;
     height: 70%;
-    left: 75vh;
-    background-color: #D3F3EE;
-    top: 10vh;
-}
-
-.tabs-bar {
-    font-family: 'moon-rounded';
-    position: relative;
-    display: flex;
-    align-items: left;
-    justify-content: left;
-    flex-direction: column;
-    left: 0vh;
-    top: 0vh;
+    left: 70vh;
+    background-color: #7FB7BE;
+    top: 6vh;
 }

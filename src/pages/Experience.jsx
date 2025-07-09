@@ -1,5 +1,6 @@
 
 import './Experience.css';
+import TabsBar from '../assets/components/tabsbar.jsx';
 
 
 // I am going about this all wrong.
@@ -9,8 +10,8 @@ export default function Experience() {
     return (
         <div className="background">
             <div className="main-body">
-                <div className="tabs-bar">
-                    <h1>test</h1>
+                <div style={{ display: 'flex', justifyContent: 'center' }}>
+                    <TabsBar />
                 </div>
                 <h1>Project Experience</h1>
             </div>
