@@ -3,3 +3,17 @@ Journal
 july 7th
 -> Craig 
  -continued scrimba course
+
+
+July 9th
+-> Craig
+
+-> Christian
+    - I have been slacking a lot recently. Maybe I just needed a break but I am feeling very motivated.
+    - I like the idea of looking at other websites but need to distinguish our own unique design instead of just copying which can be difficult.
+    - I worked on making a unique experience going for the idea of having a "browser window within a broswer" and all of the components being displayed the same in terms of positioning.
+    - In terms of visual I want to try some things.
+    Font: Moon Rounded Typeface
+    https://ifonts.xyz/moon-rounded-typeface.html
+    I think a big part is font.
+    - Began to try to create a very light experience tab.

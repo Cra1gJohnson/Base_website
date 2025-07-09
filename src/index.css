@@ -22,7 +22,10 @@ a:hover {
   color: #535bf2;
 }
 
-
+@font-face{
+  font-family: 'moon-rounded';
+  src: url('./assets/fonts/Moon-Rounded-Font/Moon-Light.otf') format('truetype');
+}
 
 h1 {
   font-size: 3.2em;
