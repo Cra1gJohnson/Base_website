@@ -26,3 +26,13 @@
     color:#7FB7BE;
 }
 
+.active-tab{
+    background-color: #242423;
+    border: 1px solid #242423;
+    height: 1px;
+    width: 130px;
+    position: absolute;
+    left: 46.5%;
+    top: 80%;
+    border-radius: 10px;
+}

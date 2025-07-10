@@ -14,6 +14,7 @@ const TabsBar = () => {
             <Link to='/experience'>
                 <text className='tabs-link'>Experience</text>
             </Link>
+            <div className='active-tab'/>
             <Link to='/projects'>
                 <text className='tabs-link'>Projects</text>
             </Link>
