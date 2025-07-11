@@ -33,3 +33,7 @@ July 10th
 -> Christian
     - Added a div bar to the tabsbar. However, the logic isn't there to figure out what the current page is to auto put it there.
     - Need to figure out logic that makes it that the bar is placed under the text of whatever page the user is on and that the size of the bar is set properly.
+
+July 11th
+-> Craig 
+    - continued to mess with experience and components

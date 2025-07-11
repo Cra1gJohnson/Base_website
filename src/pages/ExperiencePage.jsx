@@ -1,8 +1,10 @@
 import React, {useState} from 'react';
-import './Experience.css';
+import './ExperiencePage.css';
 import TabsBar from '../assets/components/tabsbar.jsx';
-import Home from'../assets/components/Home.jsx';
-import About from'../assets/components/About.jsx';
+import Home from '../assets/components/Home.jsx';
+import About from '../assets/components/About.jsx';
+import Experience from '../assets/components/Experience.jsx';
+import Projects from '../assets/components/Projects.jsx';
 
 // I am going about this all wrong.
 // Tabs needs to be a seperate component that is imported into the Experience page.
@@ -20,7 +22,7 @@ import About from'../assets/components/About.jsx';
     )
 } */
 
-export default function Experience() {
+export default function ExperiencePage() {
     
         const [activeTab, setActiveTab] = useState('Home');
 

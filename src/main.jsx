@@ -9,14 +9,14 @@ import NotFoundPage from './pages/NotFoundPage.jsx';
 import ResumeRender from './pages/ResumeRender.jsx';
 import ProjectExperience from './pages/ProjectExperience.jsx';
 import About from './pages/About.jsx';
-import Experience from './pages/Experience.jsx';
+import ExperiencePage from './pages/ExperiencePage.jsx';
 
 const router = createBrowserRouter([
   {path: '/', element: <App />},
   {path: '/resume', element: <ResumeRender />},
   {path: '/projects', element: <ProjectExperience />},
   {path: '/about', element: <About />},
-  {path: '/experience', element: <Experience />},
+  {path: '/experience', element: <ExperiencePage />},
   {path: '*', element: <NotFoundPage />}
 ]);
 
