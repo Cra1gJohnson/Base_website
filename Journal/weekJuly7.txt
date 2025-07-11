@@ -28,7 +28,8 @@ July 9th
 
 July 10th
 -> Craig
-
+    - messed about with the tabs bar. to make make it change content. All the tabs bar pages are in components. even though they have same names as our current pages. I think we should
+        restructure the whole website to stay on the say page and only change the displayed component. 
 -> Christian
     - Added a div bar to the tabsbar. However, the logic isn't there to figure out what the current page is to auto put it there.
     - Need to figure out logic that makes it that the bar is placed under the text of whatever page the user is on and that the size of the bar is set properly.

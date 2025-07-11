@@ -1,12 +1,13 @@
-
+import React, {useState} from 'react';
 import './Experience.css';
 import TabsBar from '../assets/components/tabsbar.jsx';
-
+import Home from'../assets/components/Home.jsx';
+import About from'../assets/components/About.jsx';
 
 // I am going about this all wrong.
 // Tabs needs to be a seperate component that is imported into the Experience page.
 // That way it can be used in other pages and have the same format.
-export default function Experience() {
+/* export default function Experience() {
     return (
         <div className="background">
             <div className="main-body">
@@ -17,4 +18,43 @@ export default function Experience() {
             </div>
         </div>
     )
+} */
+
+export default function Experience() {
+    
+        const [activeTab, setActiveTab] = useState('Home');
+
+        let TabContent;
+        switch (activeTab){
+            case 'home':
+                TabContent = <Home />;
+                break;
+            case 'about':
+                TabContent = <About />;
+                break;
+            case 'experience':
+                TabContent = <Experience />;
+                break;
+            case 'projects':
+                TabContent = <Projects />;
+                break;
+            default:
+                TabContent = <Home />;
+            
+            
+        }
+        return(
+            <div className="main-body">
+                <div>
+                    <span> 
+                        <TabsBar setActiveTab={setActiveTab}/>
+                    </span>
+                </div>
+                <div style={{padding: '2rem'}}>
+                    {TabContent}
+                </div>
+            </div>
+        )
+        
+    
 }

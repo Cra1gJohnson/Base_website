@@ -1,11 +1,21 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import './tabsbar.css';
+import './TabsBar.css';
 
-const TabsBar = () => {
+function TabsBar({ setActiveTab }) {
     return (
         <div className="tabs-bar">
-            <Link to='/'>
+            <button onClick={() => setActiveTab('home')}>Home</button>
+            <button onClick={() => setActiveTab('about')}>About</button>
+            <button onClick={() => setActiveTab('experience')}>Experience</button>
+            <button onClick={() => setActiveTab('projects')}>Projects</button>
+        </div>
+    );
+};
+
+export default TabsBar;
+/* 
+           <Link to='/'>
                 <text className='tabs-link'>Home</text>
             </Link>
             <Link to='/about'>
@@ -17,9 +27,4 @@ const TabsBar = () => {
             <div className='active-tab'/>
             <Link to='/projects'>
                 <text className='tabs-link'>Projects</text>
-            </Link>
-        </div>
-    );
-};
-
-export default TabsBar;
+            </Link> */
